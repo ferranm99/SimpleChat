@@ -3,3 +3,5 @@ Simple web application to communicate with your friends! You can create a room t
 
 In this repository you will find the client side, because the server-side is using the same code as in my other repository https://github.com/ferranm99/OnlineOffice
 The communicaton between users is made by WebSockets and NodeJS.
+
+CHECK IT OUT AT https://ferran.work/myprojects/chat/
